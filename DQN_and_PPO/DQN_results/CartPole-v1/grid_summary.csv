@@ -1,0 +1,7 @@
+config,final_mean,final_std,best_mean_during_training
+"lr=0.0001, gamma=0.99, epsilon_decay_steps=30000, hidden_dim=128, buffer_size=50000",402.3666666666666,101.2744236660416,434.0
+"lr=0.0001, gamma=0.99, epsilon_decay_steps=50000, hidden_dim=128, buffer_size=50000",302.76666666666665,147.72466129781972,461.3
+"lr=0.005, gamma=0.99, epsilon_decay_steps=30000, hidden_dim=128, buffer_size=50000",273.3,162.86442214308195,417.5666666666666
+"lr=0.001, gamma=0.99, epsilon_decay_steps=50000, hidden_dim=128, buffer_size=50000",235.46666666666667,153.7257587032469,431.3
+"lr=0.005, gamma=0.99, epsilon_decay_steps=50000, hidden_dim=128, buffer_size=50000",170.26666666666665,124.20773817368314,369.73333333333335
+"lr=0.001, gamma=0.99, epsilon_decay_steps=30000, hidden_dim=128, buffer_size=50000",71.93333333333332,51.787857864775816,453.26666666666665

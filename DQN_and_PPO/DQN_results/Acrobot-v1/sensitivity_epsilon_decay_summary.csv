@@ -1,0 +1,3 @@
+config,final_mean,final_std,best_mean_during_training
+epsilon_decay_steps = 30000,-81.13333333333334,7.576425425107954,-67.0
+epsilon_decay_steps = 50000,-103.56666666666666,44.044321112059635,-74.16666666666667

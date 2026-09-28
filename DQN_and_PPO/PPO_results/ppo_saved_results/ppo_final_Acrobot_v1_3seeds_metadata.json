@@ -1,0 +1,31 @@
+{
+  "save_name": "ppo_final_Acrobot_v1_3seeds",
+  "env_name": "Acrobot-v1",
+  "config": {
+    "total_steps": 100000,
+    "rollout_steps": 512,
+    "num_envs": 4,
+    "eval_interval": 5000,
+    "eval_episodes": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "lr": 0.00025,
+    "anneal_lr": true,
+    "num_epochs": 10,
+    "minibatch_size": 256,
+    "clip_epsilon": 0.2,
+    "clip_value_loss": false,
+    "value_coef": 0.5,
+    "entropy_coef": 0.0,
+    "max_grad_norm": 0.5,
+    "target_kl": null,
+    "hidden_dim": 64,
+    "activation": "tanh",
+    "separate_actor_critic": true
+  },
+  "num_seeds": 3,
+  "final_mean": -80.93333333333334,
+  "final_std": 1.9396448701301514,
+  "best_mean": -79.86666666666667,
+  "best_step": 86016
+}

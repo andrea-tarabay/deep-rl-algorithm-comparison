@@ -1,0 +1,3 @@
+config,final_mean,final_std,best_mean_during_training
+hidden_dim = 64,-74.2,8.075064499226407,-74.2
+hidden_dim = 128,-81.13333333333334,7.576425425107954,-67.0

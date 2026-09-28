@@ -1,0 +1,3 @@
+config,final_mean,final_std,best_mean_during_training
+buffer_size = 50000,402.3666666666666,101.2744236660416,434.0
+buffer_size = 10000,369.56666666666666,93.51913648494029,500.0

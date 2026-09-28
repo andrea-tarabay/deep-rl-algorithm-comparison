@@ -1,0 +1,15 @@
+{
+    "total_steps": 100000,
+    "batch_size": 32,
+    "buffer_size": 50000,
+    "gamma": 0.99,
+    "lr": 0.001,
+    "epsilon_start": 1.0,
+    "epsilon_end": 0.1,
+    "epsilon_decay_steps": 30000,
+    "eval_interval": 5000,
+    "eval_episodes": 10,
+    "eval_epsilon": 0.0,
+    "hidden_dim": 128,
+    "learning_starts": 1000
+}

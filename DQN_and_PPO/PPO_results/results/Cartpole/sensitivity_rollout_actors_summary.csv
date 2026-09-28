@@ -1,0 +1,4 @@
+config,final_mean,final_std,best_mean_during_training,best_step
+"num_envs=1, rollout_steps=2048",486.90000000000003,17.61495576680982,500.0,65536
+"num_envs=4, rollout_steps=512",473.59999999999997,20.859530196051878,500.0,61440
+"num_envs=8, rollout_steps=256",399.0,73.71164539383628,490.5333333333333,40960
